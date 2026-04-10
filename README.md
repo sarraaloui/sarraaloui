@@ -1,7 +1,8 @@
-Hellows ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sarah Aloui
+Hellows ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===================================================================================================================================
 
-Junior Data Engineer @PwC Technology Acceleration Center | Software Architecture Engineering Student
+ 
+ | Software Architecture Engineering Student
 ---------------------------------------------------------------------------------------------------------------------
 
 Holder of bachelor degree in Business Information Systems from Higher Institute of Management Tunis. Currently, working as Junior Technical Consultant while continuing my studies in Software Architecture Engineering at Esprit Tunis.
